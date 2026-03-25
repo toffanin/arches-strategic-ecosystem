@@ -1,0 +1,41 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Graph",
+  "description": "Master Strategic Map for the ARCHES 2026-2030 Ecosystem",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://github.com/toffanin/arches-strategic-ecosystem/#organization",
+      "name": "ARCHES Strategic Network",
+      "alternateName": "ARCHES",
+      "url": "https://health-news-and-updates.blogspot.com/",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhD6ZPD9QDBESx3EzeVFtQecZGLbjih_qDWna47gi-SLA_suFdhUzKH6Dk78uzl4CG6cGcn5SvCPOW7JHVhS9C4fjbRXrqF946tSALyg2F1iuV1v3TylHQDDDRgS59TYdVBsARsZAnS4j6xNEdA8iUQNltR9k9Fs7pkwz1xpMqVZ-VT2Euj98Qn8YLQBuc/s2776/logo_ARCHES_new.jpg",
+      "founder": {
+        "@type": "Person",
+        "name": "Renato Toffanin",
+        "jobTitle": "Lead Researcher"
+      },
+      "areaServed": ["European Union", "Turkey"],
+      "knowsAbout": ["Innovation Policy", "Venture Intelligence", "Deep Tech", "Technology Transfer"]
+    },
+    {
+      "@type": "Dataset",
+      "name": "ARCHES 12-Pillar Strategic Framework",
+      "creator": { "@id": "https://github.com/toffanin/arches-strategic-ecosystem/#organization" },
+      "hasPart": [
+        { "@type": "WebSite", "name": "THINK", "url": "https://health-news-and-updates.blogspot.com/" },
+        { "@type": "WebSite", "name": "INSPIRE", "url": "https://arts-and-architecture.blogspot.com/" },
+        { "@type": "WebSite", "name": "READ", "url": "https://books-and-reads.blogspot.com/" },
+        { "@type": "WebSite", "name": "INVESTIGATE", "url": "https://science-news-and-updates.blogspot.com/" },
+        { "@type": "WebSite", "name": "EDUCATE", "url": "https://education-and-growth.blogspot.com/" },
+        { "@type": "WebSite", "name": "DISCOVER", "url": "https://travel-and-discover.blogspot.com/" },
+        { "@type": "WebSite", "name": "INVEST", "url": "https://crypto-news-and-trends.blogspot.com/" },
+        { "@type": "WebSite", "name": "INNOVATE", "url": "https://toffanin.blogspot.com/" },
+        { "@type": "WebSite", "name": "GROW", "url": "https://business-and-jobs.blogspot.com/" },
+        { "@type": "WebSite", "name": "UPDATE", "url": "https://european-union-news-and-updates.blogspot.com/" },
+        { "@type": "WebSite", "name": "DEBATE", "url": "https://opinion-and-debate.blogspot.com/" },
+        { "@type": "WebSite", "name": "DEVELOP", "url": "https://development-and-growth.blogspot.com/" }
+      ]
+    }
+  ]
+}
