@@ -53,5 +53,5 @@ This project is licensed under the [CC BY 4.0](http://creativecommons.org/licens
 We are currently architecting high-impact **Horizon Europe** proposals in partnership with **Anadolu Ajansı Teknoloji** and regional R&D clusters.
 
 * **Website:** [arches-centroricerca.org](https://arches-centroricerca.org/)
-* **LinkedIn:** [Renato Toffanin](https://www.linkedin.com/in/renato-toffanin/)
+* **LinkedIn:** [Renato Toffanin](https://www.linkedin.com/in/toffanin/)
 * **Email:** toffanin@arches-centroricerca.org
