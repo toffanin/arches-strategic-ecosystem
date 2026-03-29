@@ -1,5 +1,5 @@
 # ARCHES Strategic Ecosystem (2026–2030)
-**The Forensic Bridge for the Brussels-Ankara Innovation Corridor**
+**Managing the Brussels-Ankara Innovation Corridor via Forensic Policy Auditing and JRC-Validated Backcasting**
 
 Welcome to the official strategic repository of **ARCHES (Advanced Research Centre for Health, Environment and Space)**. This is a living, version-controlled ecosystem designed to navigate the "Seed-Scale Paradox" and align deep-tech SMEs with European Strategic Autonomy.
 
