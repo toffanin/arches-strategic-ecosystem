@@ -1,0 +1,30 @@
+{
+  "short_name": "THINK",
+  "name": "THINK: ARCHES Health Policy Hub",
+  "description": "Forensic insights on EHDS and institutional reform in the Brussels-Ankara innovation corridor.",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/toffanin/arches-strategic-ecosystem/main/02_THINK_BLOG/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/toffanin/arches-strategic-ecosystem/main/02_THINK_BLOG/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "https://arches-think.blogspot.com/",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "scope": "https://arches-think.blogspot.com/",
+  "theme_color": "#003366",
+  "shortcuts": [
+    {
+      "name": "EHDS Insights",
+      "short_name": "EHDS",
+      "url": "https://arches-think.blogspot.com/search/label/EHDS",
+      "icons": [{ "src": "https://raw.githubusercontent.com/toffanin/arches-strategic-ecosystem/main/02_THINK_BLOG/icon-192.png", "sizes": "192x192" }]
+    }
+  ]
+}
