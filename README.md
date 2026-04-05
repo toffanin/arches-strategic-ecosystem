@@ -39,7 +39,7 @@ Proprietary tools, including the **12-Pillar Startup Forensic Audit Template** a
 ### [03_MARKET](./03_MARKET) | The GTM Strategy
 Service tiers (Strategic Intelligence, Forensic Auditing, Venture Architecture) and digital authority mapping.
 
-### [04_CORRESPONDENCE](./04_CORRESPONDENCE) | Institutional Protocol
+### [04_ACTION](./04_ACTION) | Institutional Protocol
 Templates for stakeholder engagement and policy briefs.
 
 ---
