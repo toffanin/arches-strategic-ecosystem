@@ -6,4 +6,4 @@ and institutional integrity records as managed by the Coordinator
 and ARCHES.
 
 **Status:** Active Oversight
-**Custodian:** Renato Toffanin (ARCHES) / Selay Yuksel (AA)
+**Custodian:** Renato Toffanin (ARCHES) / Selay Yüksel (AA)
